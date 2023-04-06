@@ -1,0 +1,21 @@
+.Form {
+    text-align: center;
+}
+
+.button {
+    margin-left: 5px;
+    background-color: peachpuff;
+    height: 60px;
+    width: 90px;
+    font-size: 1.5rem;
+
+
+}
+
+.input {
+    background-color: peachpuff;
+    height: 55px;
+    width: 300px;
+    font-size: 1.5rem;
+    margin-bottom: 50px;
+}

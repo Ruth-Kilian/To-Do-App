@@ -1,0 +1,13 @@
+.App {
+  background-image: linear-gradient(to right, #ddd6f3,  #faaca8);
+  min-height: 100vh;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 15px;
+  margin-bottom: 150px;
+  font-size: 3rem;
+  text-align: center;
+}
